@@ -69,7 +69,7 @@ education:
         university: SAE Institute
         time: March 2022 - September 2022
         details: |
-          competitive analysis• usability testing(Neilsen Heuristics)• interview with users(qualitative and quantitative analysis)• personas• design system.
+          competitive analysis,usability,testing(Neilsen Heuristics),interview with users(qualitative and quantitative analysis),personas,design system.
           - Bullet point
           - Bullet point
       - degree: Handmade jewelry technician
@@ -97,9 +97,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: UI/UX Designer
+        time: October 2022 - Present
+        company: Xite Agency, London
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
