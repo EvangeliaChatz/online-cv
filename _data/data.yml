@@ -104,7 +104,7 @@ experiences:
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa
       - role: Assistant Accountant
-        time: 2014 - 2015
+        time: April 2021-April 2022
         company: SOS Doctors S.A., Athens
         details: |
           issuance of detailed monthly statistics data & monitoring the 
@@ -112,7 +112,7 @@ experiences:
           •invoicing•wordpressDescribe your role here lorem ipsum dolor,
           sit amet, consectetuer
       - role: Assistant Accountant
-        time: 2012 - 2014
+        time: May-October 2020
         company: ArtClima E.E., Moschato
         details: |
           Prepare and submit sales and cash flow reports with the aim of 
@@ -147,17 +147,17 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certifications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: UI/UX Design Complete Web & Mobile Designer in 2022!
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
+        authors: Figma, HTML, and CSS
+        conference: • responsive wireframes • prototyiping • typography•.
+        color• UI elements• microinteractions
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
