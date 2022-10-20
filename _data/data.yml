@@ -14,21 +14,8 @@ sidebar:
     # Sidebar links
     email: evaggeliahatz@gmail.com
     phone: 6971798497
-    #timezone: America/Cancun Timezone
-    #citizenship:
-    #website: blog.webjeda.com #do not add http://
     linkedin: [Evangelia Chatzilygeroudi](https://www.linkedin.com/in/evangelia-chatzilygeroudi-39a04718a/)
-    #xing: alandoe
-    #github: sharu725
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
-    #codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://www.africau.edu/images/default/sample.pdf
-
+  
     languages:
       title: Languages
       info:
