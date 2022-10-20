@@ -23,6 +23,7 @@ sass:
 
 # Build settings
 compress-site: yes
+theme: minima
 
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
