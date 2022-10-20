@@ -63,9 +63,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: User Centered Design(UI/UX Studies)
+    title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: User Centered Design(UI/UX Studies)
         university: SAE Institute
         time: March 2022 - September 2022
         details: |
