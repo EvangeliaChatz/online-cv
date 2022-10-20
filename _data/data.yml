@@ -56,18 +56,14 @@ education:
     info:
       - degree: User Centered Design
         university: [S.A.E. Istitute](https://www.sae.edu/grc/)
-        time: 2011 - 2012
+        time: March 2022 - September 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+         • competitive analysis• usability testing(Neilsen Heuristics)• interview with users(qualitative and quantitative analysis)• personas• design system
+            #- Bullet point
+            #- Bullet point
+      - degree: Training Institute of Athensn Galatsi
+        university: Public Vocational
+        time: 2017 - 2019
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,41 +79,22 @@ experiences:
         time: 2017 - Present
         company: 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          design : mugs (20+)• aprons •logos •
+           wedding & baptism invitations •menu •business cards(2) •jewelry(50+)
+      - role: Accountant
+        time: April 2021 - April 2022
+        company: SOS Doctors, Athens
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          issuance of detailed monthly statistics data & monitoring the increase rates of appointments•issuance 10% of patient receipts•invoicing•wordpres
+      - role: Junior Accountant
+        time: May - October 2020
+        company: Artclima E.E, Athens
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Prepare and submit sales and cash flow reports with the aim of reducing production costs 20%•Communicate with more than 100 customers-suppliers per month•Preparing & sending offers•website monitoring and optimization
             - Bullet point
             - Bullet point
 projects:
-    title: Projects
+    title: Certifications
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
