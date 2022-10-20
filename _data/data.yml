@@ -70,10 +70,22 @@ education:
         time: March 2022 - September 2022
         details: |
           competitive analysis• usability testing(Neilsen Heuristics)• interview with users(qualitative and quantitative analysis)• personas• design system.
-          
+          - Bullet point
+          - Bullet point
       - degree: Handmade jewelry technician
         university: Public Vocational Training Institute of Athens,Galatsi
         time: 2017 - 2019
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+           - degree: Bachelor’s Degree in Economics
+        university: University of Patras
+        time: 2013 - 2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
