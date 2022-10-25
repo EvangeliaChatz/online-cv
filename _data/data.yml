@@ -62,9 +62,9 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
+ education:
     title: Education
-    info:
+    info: 
      - degree: User Centered Design(UI/UX Studies)
        university: SAE Institute
        time: March 2022 - September 2022
