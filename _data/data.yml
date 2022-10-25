@@ -65,7 +65,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+     - degree: MSc in Computer Science
         university: University of London
         time: 2011 - 2012
         details: |
