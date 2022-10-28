@@ -2,79 +2,72 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar: 
+sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Evangelia Chatzilygeroudi
-    tagline: UI/UX Designer
-    avatar: fotoprofil.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: evaggeliahatz@gmail.com
-    phone: 6971798497
-    timezone: Greece
-    citizenship: 
-    website: 
-    linkedin: 
-    xing: 
-    github: EvangeliaChatz
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: America/Cancun Timezone
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: C1
+          level: Native
 
         - idiom: French
-          level: B2
+          level: Professional
 
-        - idiom:
-          level:
+        - idiom: Spanish
+          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Dancing
+        - item: Climbing
           link:
 
-        - item:
+        - item: Snowboarding
           link:
 
-        - item:
+        - item: Cooking
           link:
 
 career-profile:
     title: Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [SAE Institute]().
+      adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
- education:
+education:
     title: Education
-    info: 
-     - degree: User Centered Design(UI/UX Studies)
-       university: SAE Institute
-       time: March 2022 - September 2022
-       details: |
-         competitive analysis,usability,testing(Neilsen Heuristics),interview with users(qualitative and quantitative analysis),personas,design system.
-         - Bullet point
-         - Bullet point
-      - degree: Handmade jewelry technician
-        university: Public Vocational Training Institute of Athens,Galatsi
-        time: 2017 - 2019
+    info:
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,9 +76,9 @@ career-profile:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-       - degree: Bachelor’s Degree in Economics
-        university: University of Patras
-        time: 2013 - 2017
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -97,28 +90,43 @@ career-profile:
 experiences:
     title: Experiences
     info:
-      - role: UI/UX Designer
-        time: October 2022 - Present
-        company: Xite Agency, London
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa
-      - role: Assistant Accountant
-        time: April 2021-April 2022
-        company: SOS Doctors S.A., Athens
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
-          issuance of detailed monthly statistics data & monitoring the 
-          increase rates of appointments•issuance 10% of patient receipts.
-          •invoicing•wordpressDescribe your role here lorem ipsum dolor,
-          sit amet, consectetuer
-      - role: Assistant Accountant
-        time: May-October 2020
-        company: ArtClima E.E., Moschato
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
         details: |
-          Prepare and submit sales and cash flow reports with the aim of 
-          reducing production costs 20%•Communicate with more than 100. 
-          customers-suppliers per month•Preparing & sending offers•website,
-          monitoring and optimization.
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
 projects:
     title: Projects
     intro: >
@@ -147,18 +155,17 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Certifications
+    title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: UI/UX Design Complete Web & Mobile Designer in 2022!
+      - title: The Art of Computer Programming
         link: "#"
-        authors: Figma, HTML, and CSS
-        conference: • responsive wireframes • prototyiping • typography•.
-        color• UI elements• microinteractions
-        
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
