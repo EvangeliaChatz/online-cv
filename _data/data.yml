@@ -67,14 +67,12 @@ education:
     title: Education
     info:
       - degree: User Centered Design (UI/UX Studies)
-        university: University of London
-        time: 2011 - 2012
+        university: SAE Institute
+        time: March 2022 - September 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          competitive analysis, usability, testing (Neilsen Heuristics),
+          interview with users (qualitative and quantitative analysis), 
+          personas, design system
             - Bullet point
             - Bullet point
       - degree: BSc in Applied Mathematics
