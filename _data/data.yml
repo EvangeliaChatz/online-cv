@@ -75,9 +75,9 @@ education:
           personas, design system
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Handmade jewlery technician
+        university: Public Vocational Training Institute of Athens, Galatsi
+        time: 2017 - 2019
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -86,6 +86,17 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+      - degree: Bachelor's Degree in Economics
+        university: University of Patras
+        time: 2013 - 2017
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point          
 experiences:
     title: Experiences
     info:
