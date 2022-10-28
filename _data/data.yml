@@ -62,19 +62,24 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     title: Education
     info:
-      - degree:
-        university: SAE Institute
-        time: March 2022 - September 2022
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
-             competitive analysis,usability,testing(Neilsen Heuristics),interview with users(qualitative and quantitative analysis),personas,design system.
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Handmade jewelry technician
-        university: Public Vocational Training Institute of Athens, Galatsi
-        time: 2017 - 2019
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
