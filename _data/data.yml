@@ -130,11 +130,8 @@ experiences:
         details: |
           Prepare and submit sales and cash flow reports with the aim of
           reducing production costs 20%
-          escribe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Communicate with more than 100 customers-suppliers per month
+          Preparing & sending offers, website, monitoring and optimization
             - Bullet point
             - Bullet point
 projects:
@@ -165,16 +162,17 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certifications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: UI/UX Design Complete Web & Mobile Designer in 2022!
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Figma, HTML and CSS
+        conference: • responsive wireframes • prototyiping • typography•.
+        color• UI elements• microinteractions
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
