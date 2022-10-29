@@ -13,13 +13,13 @@ sidebar:
 
     # Sidebar links
     email: evaggeliahatz@gmail.com
-    phone: 6971798497
+    phone: (+30) 6971798497
     timezone: Greece
     citizenship:
     website:
-    linkedin: https://github.com/EvangeliaChatz
+    linkedin: LELA_LELA
     xing: alandoe
-    github: sharu725
+    github: https://github.com/EvangeliaChatz
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -37,9 +37,6 @@ sidebar:
 
         - idiom: French
           level: B2
-
-        - idiom:
-          level:
 
     interests:
       title: Interests
@@ -67,14 +64,14 @@ education:
     title: Education
     info:
       - degree: User Centered Design (UI/UX Studies)
-        university: SAE Institute
+        university: S.A.E. Institute
         time: March 2022 - September 2022
         details: |
-          competitive analysis, usability, testing (Neilsen Heuristics),
-          interview with users (qualitative and quantitative analysis), 
-          personas, design system
-            - Bullet point
-            - Bullet point
+          • competitive analysis • usability • testing (Neilsen Heuristics)
+          • interview with users (qualitative and quantitative analysis)
+          • personas • design system
+            - Bullet point (Remove it)
+            - Bullet point (Remove it)
       - degree: Handmade jewlery technician
         university: Public Vocational Training Institute of Athens, Galatsi
         time: 2017 - 2019
