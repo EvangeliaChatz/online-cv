@@ -125,31 +125,18 @@ experiences:
           
 publications:
     title: Certifications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+   
     papers:
-      - title: UI/UX Design Complete Web & Mobile Designer in 2022!
+      - title: UI/UX Design Complete Web & Mobile Designer in 2022
         link: "#"
         authors: Figma, HTML and CSS
         conference: • responsive wireframes • prototyping • typography • color • UI elements • microinteractions
         
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Figma • illustrator • Photoshop • Miro • Rhino 3D • HTML • CSS
         level: 98%
 
       - name: Javascript & jQuery
