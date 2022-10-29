@@ -79,14 +79,7 @@ education:
       - degree: Bachelor's Degree in Economics
         university: University of Patras
         time: 2013 - 2017
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point          
+        
 experiences:
     title: Experiences
     info:
@@ -109,21 +102,19 @@ experiences:
         time: April 2021 - April 2022
         company: SOS Doctors S.A., Athens
         details: |
-          Issurance of detailed monthly statistics & monitoring the
-          increase rates of appointments, issuance 10% of patient receipts.
-          invoicing, wordpress 
-            - Bullet point
-            - Bullet point
+          Issurance of detailed monthly statistics data & monitoring the
+          increase rates of appointments • issuance 10% of patient receipts
+          • invoicing • wordpress 
+          
       - role: Assistant Acountant
-        time: May - October 2020
+        time: May 2020 - October 2020
         company: ArtClima E.E., Moschato
         details: |
           Prepare and submit sales and cash flow reports with the aim of
-          reducing production costs 20%
-          Communicate with more than 100 customers-suppliers per month
-          Preparing & sending offers, website, monitoring and optimization
-            - Bullet point
-            - Bullet point
+          reducing production costs 20% • Communicate with more than 100
+          customers-suppliers per month • Preparing & sending
+          offers • website, monitoring and optimization
+          
 projects:
     title: Projects
     intro: >
